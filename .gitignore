@@ -1,0 +1,23 @@
+# Arquivos Python temporários
+_pycache_/
+*.py[cod]
+
+# Ambiente virtual
+venv/
+.venv/
+env/
+
+# Configurações de IDE
+.vscode/
+.idea/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de dados temporários
+*.tmp
+*.log
+
+# Pasta de testes (se tiver)
+test_output/
